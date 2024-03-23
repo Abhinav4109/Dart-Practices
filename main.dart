@@ -31,7 +31,8 @@ else{
 }
 
 /* Second Way to do this exercise -> using switch-case */
-switch(destinationZone){
+
+/* switch(destinationZone){
   case "XYZ" : {
     print('Your Shipping Cost is \$${packageWeightInKgs*5}');
   }
@@ -45,4 +46,5 @@ switch(destinationZone){
     print('Bhai tujhe jaha bhejna hai waha mai package nhi bhejunga, to tu shipping cost jaan ke kya karega');
   }
 }
+*/
 }
